@@ -35,6 +35,6 @@ This is a [link to markdown syntax](http://daringfireball.net/projects/markdown/
 >
 > Back to the first level.
 
-This is how to _emphasize_ *words* in a paragraph.
+This is how to **emphasize** *words* in a paragraph.
 
 
