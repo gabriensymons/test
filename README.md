@@ -21,7 +21,6 @@ Numbered list:
 2. list
 3. three
 
-- - -
 
 This is a `code` tag.
 
