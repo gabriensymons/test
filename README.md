@@ -1,4 +1,3 @@
-# Hash
 h1. This is an h1
 Text goes here
 h2. This is an h2
