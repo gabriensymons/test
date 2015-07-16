@@ -27,7 +27,7 @@ The following is a code block:
 
     This is code in here.
 
-This is a [link to google](http://google.com)
+This is a [link to markdown syntax](http://daringfireball.net/projects/markdown/syntax#precode)
 
 > This is the first level of quoting.
 >
